@@ -4,11 +4,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/zwpseudo/Sn1per.svg)](https://github.com/zwpseudo/Sn1per/issues)
 [![Github Stars](https://img.shields.io/github/stars/zwpseudo/Sn1per.svg?style=social&label=Stars)](https://github.com/zwpseudo/Sn1per/)
 [![GitHub Followers](https://img.shields.io/github/followers/zwpseudo.svg?style=social&label=Follow)](https://github.com/zwpseudo/Sn1per/)
-[![Tweet](https://img.shields.io/twitter/follow/zackreywatford?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Sn1per%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fzwpseudo%2FSn1per)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/zackreywatford?style=social)](https://twitter.com/intent/follow?screen_name=zackreywatford)
 
 ## ABOUT:
-Sn1per Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. Sn1per Professional is Xero Security's premium reporting addon for Professional Penetration Testers, Bug Bounty Researchers and Corporate Security teams to manage large environments and pentest scopes. For more information regarding Sn1per Professional, go to https://shaddixlyric.com.
+Sn1per Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. Sn1per Professional is a premium reporting addon for Professional Penetration Testers, Bug Bounty Researchers and Corporate Security teams to manage large environments and pentest scopes. For more information regarding Sn1per Professional, go to https://shaddixlyric.com.
 
 [![](https://shaddixlyric.com/images/shaddixlyric-sn1per1b.PNG)](https://shaddixlyric.com/)
 [![](https://shaddixlyric.com/images/shaddixlyric-sn1per2.PNG)](https://shaddixlyric.com/)
