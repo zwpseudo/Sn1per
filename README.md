@@ -1,7 +1,5 @@
 [![ShaddixLyric](https://github.com/zwpseudo/Sn1per/blob/master/Sn1per.gif)](https://shaddixlyric.com)
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/zackreywatford?style=social)](https://twitter.com/intent/follow?screen_name=zackreywatford)
-
 ## ABOUT:
 Sn1per Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. Sn1per Professional is a premium reporting addon for Professional Penetration Testers, Bug Bounty Researchers and Corporate Security teams to manage large environments and pentest scopes. For more information regarding Sn1per Professional, go to https://shaddixlyric.com.
 
