@@ -1,9 +1,5 @@
-[![XeroSecurity](https://github.com/zwpseudo/Sn1per/blob/master/Sn1per.gif)](https://shaddixlyric.com)
+[![ShaddixLyric](https://github.com/zwpseudo/Sn1per/blob/master/Sn1per.gif)](https://shaddixlyric.com)
 
-[![GitHub release](https://img.shields.io/github/release/zwpseudo/Sn1per.svg)](https://github.com/zwpseudo/Sn1per/releases)
-[![GitHub issues](https://img.shields.io/github/issues/zwpseudo/Sn1per.svg)](https://github.com/zwpseudo/Sn1per/issues)
-[![Github Stars](https://img.shields.io/github/stars/zwpseudo/Sn1per.svg?style=social&label=Stars)](https://github.com/zwpseudo/Sn1per/)
-[![GitHub Followers](https://img.shields.io/github/followers/zwpseudo.svg?style=social&label=Follow)](https://github.com/zwpseudo/Sn1per/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/zackreywatford?style=social)](https://twitter.com/intent/follow?screen_name=zackreywatford)
 
 ## ABOUT:
