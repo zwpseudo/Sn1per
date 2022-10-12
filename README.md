@@ -4,8 +4,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/zwpseudo/Sn1per.svg)](https://github.com/zwpseudo/Sn1per/issues)
 [![Github Stars](https://img.shields.io/github/stars/zwpseudo/Sn1per.svg?style=social&label=Stars)](https://github.com/zwpseudo/Sn1per/)
 [![GitHub Followers](https://img.shields.io/github/followers/zwpseudo.svg?style=social&label=Follow)](https://github.com/zwpseudo/Sn1per/)
-[![Tweet](https://img.shields.io/twitter/url/http/xer0dayz.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Sn1per%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fzwpseudo%2FSn1per)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/xer0dayz.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=xer0dayz)
+[![Tweet](https://img.shields.io/twitter/follow/zackreywatford?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=Sn1per%20-%20Automated%20Pentest%20Recon%20Scanner&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fzwpseudo%2FSn1per)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/zackreywatford?style=social)](https://twitter.com/intent/follow?screen_name=zackreywatford)
 
 ## ABOUT:
 Sn1per Community Edition is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. Sn1per Professional is Xero Security's premium reporting addon for Professional Penetration Testers, Bug Bounty Researchers and Corporate Security teams to manage large environments and pentest scopes. For more information regarding Sn1per Professional, go to https://shaddixlyric.com.
@@ -169,7 +169,7 @@ sniper -u|--update
 - [x] WPScan API integration (https://github.com/zwpseudo/Sn1per/wiki/WPScan-API-Integration)
 
 ## LICENSE:
-This software is free to distribute and use with the condition that credit is provided to the creator (@zwpseudo @XeroSecurity), is not renamed and is not for commercial use or resold and rebranded. Permission to distribute any part of the code for sale is strictly prohibited.
+This software is free to distribute and use with the condition that credit is provided to the creator (@zwpseudo), is not renamed and is not for commercial use or resold and rebranded. Permission to distribute any part of the code for sale is strictly prohibited.
 
 ## LEGAL DISCLAIMER:
 You may not rent or lease, distribute, modify, sell or transfer the software to a third party. Sn1per Community is free for distribution, and modification with the condition that credit is provided to the creator and not used for commercial use. You may not use software for illegal or nefarious purposes. No liability for consequential damages to the maximum extent permitted by all applicable laws. In no event shall XeroSecurity or any person be liable for any consequential, reliance, incidental, special, direct or indirect damages whatsoever (including without limitation, damages for loss of business profits, business interruption, loss of business information, personal injury, or any other loss) arising out of or in connection with the use or inability to use this product, even if XeroSecurity has been advised of the possibility of such damages.
